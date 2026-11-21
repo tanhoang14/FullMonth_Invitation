@@ -6,7 +6,7 @@ s1:["Còn bao lâu nữa đến buổi tiệc","Until the party"],s2:["Harrison 
 d1:["Thông tin chi tiết","The details"],d2:["Khi nào:","When:"],d3:["Thứ Ba, ngày 08 tháng 12 năm 2026, lúc 5:00 chiều","Tuesday, December 08, 2026 at 05:00 PM"],d4:["Ở đâu:","Where:"],d5:["Tên địa điểm, địa chỉ, thành phố","Venue name, street address, city"],
 d6:["Trang phục:","Wear:"],d7:["Mặc đồ thoải mái nhé. Màu nhẹ nhàng thì càng hợp.","Something comfy. Soft colors welcome."],d8:["Đến khi:","Until:"],d9:["Tiệc tàn!","The giggles wind down!"],d10:["Mở bản đồ","Open in Maps"],
 f1:["Tháng đầu tiên của Harrison","Harrison’s first month"],f2:["Vài điều chúng mình yêu thích nhất cho đến giờ.","A few of our favorite things so far."],f3:["Ngày sinh:","Born:"],f4:["Ngày 08 tháng 11 năm 2026","November 08, 2026"],
-f5:["Cân nặng:","Size:"],f6:["7 lbs 50 oz, và đang lớn nhanh","7 lbs 50 oz, and growing"],f7:["Thích:","Loves:"],f8:["Bú sữa, được ôm ấp và những cơn nấc cụt xíu xiu","Milk, cuddles, and tiny hiccups"],
+f5:["Cân nặng:","Size:"],f6:["7 lbs 50 oz, và đang lớn nhanh","7 lbs 50 oz, and growing"],f7:["Thích:","Loves:"],f8:["Ăn sữa, được ôm ấp và hóng chuyện","Milk, cuddles, and tiny hiccups"],
 g1:["Khoảnh khắc nhỏ","Little moments"],g2:["Thay các ô này bằng ảnh của Harrison.","Swap these tiles for Harrison’s photos."],g3:["Ảnh 1","Photo 1"],g4:["Ảnh 2","Photo 2"],g5:["Ảnh 3","Photo 3"],
 r1:["Bạn sẽ đến chứ?","Will you come?"],r2:["Cho chúng mình biết trước ngày 1 tháng 12 nhé.","Let us know by December 1."],r3:["Tên của bạn","Your name"],r4:["Số khách","Guests"],r5:["Lời chúc cho Harrison","A wish for Harrison"],
 r6:["5 trở lên","5 or more"],r7:["Gửi xác nhận","Send RSVP"],r8:["Cảm ơn bạn! Email đã sẵn sàng để gửi.","Thank you! Your email is ready to send."],
